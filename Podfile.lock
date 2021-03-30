@@ -1,0 +1,72 @@
+PODS:
+  - Alamofire (5.4.1)
+  - Charts (3.6.0):
+    - Charts/Core (= 3.6.0)
+  - Charts/Core (3.6.0)
+  - Haptica (3.0.2)
+  - Kingfisher (6.1.0)
+  - LBTATools (1.0.12)
+  - NVActivityIndicatorView (5.1.1):
+    - NVActivityIndicatorView/Base (= 5.1.1)
+  - NVActivityIndicatorView/Base (5.1.1)
+  - PhoneNumberKit (3.3.3):
+    - PhoneNumberKit/PhoneNumberKitCore (= 3.3.3)
+    - PhoneNumberKit/UIKit (= 3.3.3)
+  - PhoneNumberKit/PhoneNumberKitCore (3.3.3)
+  - PhoneNumberKit/UIKit (3.3.3):
+    - PhoneNumberKit/PhoneNumberKitCore
+  - SnapKit (5.0.1)
+  - SwiftDate (6.3.1)
+  - SwiftyJSON (5.0.0)
+  - YandexMobileMetrica (3.11.1):
+    - YandexMobileMetrica/Static (= 3.11.1)
+  - YandexMobileMetrica/Static (3.11.1):
+    - YandexMobileMetrica/Static/Core (= 3.11.1)
+    - YandexMobileMetrica/Static/Crashes (= 3.11.1)
+  - YandexMobileMetrica/Static/Core (3.11.1)
+  - YandexMobileMetrica/Static/Crashes (3.11.1):
+    - YandexMobileMetrica/Static/Core
+
+DEPENDENCIES:
+  - Alamofire
+  - Charts
+  - Haptica
+  - Kingfisher
+  - LBTATools
+  - NVActivityIndicatorView
+  - PhoneNumberKit
+  - SnapKit
+  - SwiftDate
+  - SwiftyJSON
+  - YandexMobileMetrica (= 3.11.1)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Charts
+    - Haptica
+    - Kingfisher
+    - LBTATools
+    - NVActivityIndicatorView
+    - PhoneNumberKit
+    - SnapKit
+    - SwiftDate
+    - SwiftyJSON
+    - YandexMobileMetrica
+
+SPEC CHECKSUMS:
+  Alamofire: 2291f7d21ca607c491dd17642e5d40fdcda0e65c
+  Charts: b1e3a1f5a1c9ba5394438ca3b91bd8c9076310af
+  Haptica: dc206651beeca25ab4744c633fbf0ae4d1e86baf
+  Kingfisher: f5d8d60a0ef3edd642fd781bae60918599901aff
+  LBTATools: 389a901a01b9a56bea5682c40cd6e23530f40015
+  NVActivityIndicatorView: 1f6c5687f1171810aa27a3296814dc2d7dec3667
+  PhoneNumberKit: 4ce83273551c4d2ae10b7361162f4283dd02835f
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+  SwiftDate: 72d28954e8e1c6c1c0f917ccc8005e4f83c7d4b2
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+  YandexMobileMetrica: e985e1f77e405390a2d13f11741d86ff2f00c4ce
+
+PODFILE CHECKSUM: 8e3e3be132e274eeac97864d875218b466c53c3b
+
+COCOAPODS: 1.10.1
